@@ -60,5 +60,4 @@ Edit
 3. Make sure the paths to `img/`, `video/`, and `css/` folders are correct.
 
 ---
-
 > This project is ideal for front-end practice, portfolios, or cinema-based UI design inspiration.
